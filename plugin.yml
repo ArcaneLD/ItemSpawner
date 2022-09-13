@@ -1,0 +1,8 @@
+name: ItemSpawner
+version: 1.0
+author: Arcane
+main: fr.arcane.ItemSpawners.ItemSpawner
+commands:
+  credit:
+    description: Commande déstinée à affiché les crédits
+    permission:
